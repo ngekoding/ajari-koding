@@ -61,6 +61,26 @@ Diurutkan berdasarkan abjad dan dipisahkan berdasarkan tipe
 - Tipe: PORTAL
 - Rating: 5
 
+### FASTPLAZ
+
+- Creator: Luri Darmawan
+- URL: https://fastplaz.com/
+- Description: Pacsal Web Framework
+- Topic Tags: pascal,lazarus,framework,web
+- Business Model: FREE NO ADS
+- Tipe: PORTAL
+- Rating: 0
+
+### PASCAL INDONESIA
+
+- Creator: Pascal Indonesia Team,
+- URL: https://pascal-id.org
+- Description: Situs Informasi Pascal Indonesia
+- Topic Tags: pascal,delphi,framework,fastplaz
+- Business Model: FREE NO ADS
+- Tipe: PORTAL
+- Rating: 0
+
 ### TEKNO CERDAS
 
 - Creator: Rio Astamal
@@ -261,6 +281,16 @@ Diurutkan berdasarkan abjad dan dipisahkan berdasarkan tipe
 - Tipe: VIDEO
 - Rating: 0
 
+### TUTORKOMPUTER
+
+- Creator: Andi Hoerudin
+- URL: https://www.youtube.com/channel/UCpU7qfVvHlMf698on43t9LQ/playlists
+- Description: Tutorial Pemograman Dengan Study Case tentu dengan teknologi Kekinian.
+- Topic Tags: Javascript,php,codeinteger,laravel,android,react native,vue js
+- Business Model: FREE NO ADS 
+- Tipe: VIDEO 
+- Rating: 0
+
 ### VICTOR SILALAHI
 
 - Creator: Victor Silalahi
@@ -459,6 +489,16 @@ Diurutkan berdasarkan abjad dan dipisahkan berdasarkan tipe
 - URL: https://www.mynotescode.com
 - Description: My Notes Code adalah sebuah blog yang berisi mengenai kumpulan catatan seputar pemograman seperti tutorial, tips, trik, dan pemecahan masalah beserta solusinya
 - Topic Tags: PHP, CodeIgniter, Laravel, jQuery, Tips Trik
+- Business Model: FREE WITH ADS
+- Tipe: BLOG
+- Rating: 0
+
+### POJOK PROGRAMMER
+
+- Creator: Nur Hidayat
+- URL: https://pojokprogrammer.net
+- Description: Blog tentang Pemrograman
+- Topic Tags: PHP, Database, Analisa, Design
 - Business Model: FREE WITH ADS
 - Tipe: BLOG
 - Rating: 0

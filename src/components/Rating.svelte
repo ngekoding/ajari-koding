@@ -13,7 +13,7 @@
   }
   .c-tooltip {
     position: relative;
-		cursor: pointer;
+    cursor: pointer;
   }
   .c-tooltip .c-tooltiptext {
     visibility: hidden;
@@ -25,12 +25,23 @@
     position: absolute;
     z-index: 1;
 
-		width: 150px;
-		bottom: 100%;
-		left: -8px;
+    width: 150px;
+    bottom: calc(100% + 2px);
+    left: 1px;
   }
   .c-tooltip:hover .c-tooltiptext {
     visibility: visible;
+  }
+  .c-tooltip .c-tooltiptext::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 5px solid transparent;
+    border-top-color: #000;
+    transform: rotate(-90deg);
+    left: 0;
+    bottom: -5px;
   }
 </style>
 
