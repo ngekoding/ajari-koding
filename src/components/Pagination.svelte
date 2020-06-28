@@ -58,7 +58,7 @@
       </li>
     {/each}
     <li class="page-item {currentPage == pageCount ? 'disabled' : ''}">
-      <a href="#" class="page-link" on:click={e => handleClickPage(e, currentPage + 1)}>&raquo;</a>
+      <a href="#" class="page-link" on:click={e => handleClickPage(e, currentPage + 1)}>&raquo;</a> 
     </li>
   </ul>
 </div>

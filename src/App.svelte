@@ -26,6 +26,7 @@
   const handleFilter = event => {
     const filterBy = event.detail.text.toLowerCase();
     activeFilter = filterBy;
+    activeTag = "";
     if (filterBy === "semua") {
       showData = data.awesome_list;
     } else {
